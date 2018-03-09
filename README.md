@@ -18,21 +18,21 @@ La but de Memtest est tester la mémoire du joueur et voir le meilleur score de 
 <h2>1 - Setup</h2>
 
 <h2>2 - Hard ware</h2>
-<p>Liste de composants : <P>
+<b>Liste de composants : <b>
   <P>   WEMOS D1 mini (Un mini board de wifi basé sur ESP-8266EX) X 1</p>
-  <img src="https://github.com/HiduBrh/IOT/blob/master/images/d1_mini.jpg">
+  <img src="https://github.com/HiduBrh/IOT/blob/master/images/d1_mini.jpg" width="500">
   
   
   <p>   MPU-6050 Accelerometer X 1 </p>
-  <img src="https://github.com/HiduBrh/IOT/blob/master/images/mpu6050.jpg">
+  <img src="https://github.com/HiduBrh/IOT/blob/master/images/mpu6050.jpg" width="500">
   
   
   <p>   Neopixel ws2812 X 1</p>
-  <img src="https://github.com/HiduBrh/IOT/blob/master/images/ws2812.jpg">
+  <img src="https://github.com/HiduBrh/IOT/blob/master/images/ws2812.jpg" width="500">
   
   
   <p>   Les cables X N</P>
-  <img src="https://github.com/HiduBrh/IOT/blob/master/images/cables.jpg">
+  <img src="https://github.com/HiduBrh/IOT/blob/master/images/cables.jpg" width="500">
   
 <p>Schema de montage</p> 
 <img src="https://github.com/HiduBrh/IOT/blob/master/Schema.png">
