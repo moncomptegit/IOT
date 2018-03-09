@@ -1,4 +1,4 @@
-# Projet IOT : Memtest
+# Projet IOT : MeMtest
 
 <h2>Description du jeu</h2>
 
