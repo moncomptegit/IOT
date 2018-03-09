@@ -17,7 +17,13 @@ La but de Memtest est tester la mémoire du joueur et voir le meilleur score de 
 
 <h2>1 - Setup</h2>
 
+-Ajouter l'url suivante dans Fichier -> Préférences-> URL de gestionnaire de cartes supplémentaires:
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 <h2>2 - Hard ware</h2>
+-installer le pilote de la carte ESP8266 dans Outils->Type de carte-> Gestionnaire de carte
+-Telecharger la lib Neo_Pixel (https://github.com/adafruit/Adafruit_NeoPixel), et la dézipper dans le répertoire libraries de Arduino
+-Modifier le nom du réseau et le mot de passe du réseau WIFI dans le fichier MemTest.ino
+
 <b>Liste de composants : <b>
   <P>   WEMOS D1 mini (Un mini board de wifi basé sur ESP-8266EX) X 1</p>
   <img src="https://github.com/HiduBrh/IOT/blob/master/images/d1_mini.jpg" width="500">
