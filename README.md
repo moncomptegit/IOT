@@ -20,7 +20,8 @@ La but de Memtest est tester la mémoire du joueur et voir le meilleur score de 
 <h2>2 - Hard ware</h2>
 <p>Liste de composants : <P>
   <P>   WEMOS D1 mini X 1</p>
-  
+  <p>                  Un mini board de wifi basé sur ESP-8266EX</p>
+  <img src="https://github.com/HiduBrh/IOT/blob/master/images/d1_mini.jpg">
   <p>   MPU-6050 Accelerometer X 1 </p>
   
   <p>   Neopixel ws2812 X 1</p>
