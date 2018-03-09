@@ -4,13 +4,15 @@
 
 <p>Memtest est un jeu de mémoire disposant 8 LEDs et de 6 couleurs.
 
-Chaque couleur correspond à une direction,du coup, il y a 6 direction possibles : Haut, Bas, Gauche, Droite, Devant , Derrière.
+Chaque couleur correspond à une direction. Du coup, il y a 6 direction possibles : Haut, Bas, Gauche, Droite, Devant , Derrière.
 
-Une fois le jeu est lancer la première LED s’allume avec une couleur.
+Une fois que le jeu est lancer, la première LED s’allume avec une couleur au hasard.
 
-Il faudra deviner la bonne direction pour faire allumer la LED suivante qui allume à son tour une couleur 
+Il faudra deviner la bonne direction pour faire allumer la LED suivante qui affiche à son tour une couleur.
 
-La but de Memtest est tester la mémoire du joueur et voir le meilleur score de celui qui parvient à allumer les 8 LEDs
+Il faut noter que la même couleur de lumière peut s'afficher plusiuers fois au cours du même jeu.
+
+Le but de Memtest est de tester la mémoire du joueur et voir le meilleur score de celui qui parvient à allumer les 8 LEDs
 </p>
 
 
