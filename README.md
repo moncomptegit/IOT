@@ -22,6 +22,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json<br>
 -installer le pilote de la carte ESP8266 dans Outils->Type de carte-> Gestionnaire de carte<br>
 -Telecharger la lib Neo_Pixel (https://github.com/adafruit/Adafruit_NeoPixel), et la dézipper dans le répertoire libraries de Arduino<br>
 -Modifier le nom du réseau et le mot de passe du réseau WIFI dans le fichier MemTest.ino<br>
+  WiFi.begin("Nom Reseau", "Password");<br>
 </p>
 <h2>2 - Hard ware</h2>
 <b>Liste de composants : <b>
